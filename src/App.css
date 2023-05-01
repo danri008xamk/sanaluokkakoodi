@@ -1,0 +1,12 @@
+.sana {
+  padding: 3px;
+  border-radius: 5px;
+}
+
+.sana:hover {
+  background-color: #6393e0;
+}
+
+.aktiivinenSana {
+  background-color: #abb7c9;
+}

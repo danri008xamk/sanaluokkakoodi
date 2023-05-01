@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c497f3a8.css","mappings":"AAAA,MAEE,iBAAkB,CADlB,WAEF,CAEA,YACE,wBACF,CAEA,gBACE,wBACF","sources":["App.css"],"sourcesContent":[".sana {\n  padding: 3px;\n  border-radius: 5px;\n}\n\n.sana:hover {\n  background-color: #6393e0;\n}\n\n.aktiivinenSana {\n  background-color: #abb7c9;\n}"],"names":[],"sourceRoot":""}
